@@ -3,5 +3,4 @@ This is my solution to the Kaggle Higgs challenge, for the week 3 assigment of t
 
 ![](submission/higgs_fig7_model6.png)
 
-For the report of the data analysis click [here](#submission/Aurelio_Amerio_Higgs_report.pdf)
-
+For the report of the data analysis click [here](submission/Aurelio_Amerio_Higgs_report.pdf)
